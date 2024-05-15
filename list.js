@@ -114,7 +114,7 @@ window.onload = function () {
         productObjectInput.value = "";
     };
 }
-
+//aaaaa
 function createProducts() {
     const idRow = document.querySelector("#id_row");
     idRow.innerHTML = "";
